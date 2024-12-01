@@ -1,3 +1,4 @@
 # practice
 This repository is just for practice.
-Author - Steve Michael
+<br>
+Author - <H1>Steve Michael</H1>
